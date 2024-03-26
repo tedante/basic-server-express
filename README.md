@@ -13,7 +13,7 @@ Before you begin, make sure you have the following installed on your machine:
 1. Clone this repository to your local machine:
 
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/tedante/basic-server-express.git
   ```
 
 2. Navigate to the project directory:
